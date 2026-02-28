@@ -1,0 +1,25 @@
+window-title = COSMIC Ollama
+prompt-field = Scrie ceva...
+chat-typing = Chat-ul scrie...
+select-model = Selectează modelul
+model-not-installed = Modelul ales nu este instalat
+no-response = Niciun răspuns de la server
+clear-chat = Şterge chat-ul
+chat = Chat
+settings = Setări
+keep-context = Păstrează contextul
+conversations = Conversații
+select-conversation = Selectează din trecut
+open = Deschide
+load = Încarcă
+save = Salvează
+remove = Șterge
+save-conversation = Salvează conversația
+load-conversation = Încarcă o conversație
+remove-conversation = Șterge conversația
+manage-models = Gestionează modelele
+pull-model = Extrage modelul
+remove-model = Șterge model
+user-avatar = Setează un avatar
+keep-alive = Cât timp să se țină modelul în memorie (string)
+
